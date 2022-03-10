@@ -11,7 +11,6 @@
 
     <!-- CSS Carrousel -->
     <link rel="stylesheet" href="./style/owl/owl.carousel.css">
-    <link rel="stylesheet" href="./style/owl/owl.theme.default.css">
 
     <title>Netflix</title>
 </head>
@@ -43,7 +42,7 @@
                         <i class="fa-solid fa-play"></i>
                         Assistir agora
                     </button>
-                    <button role="button" class="button">
+                    <button role="button" class="button" id="myBtn" onClick="openModal()">
                         <i class="fa-solid fa-circle-info"></i>
                         Mais informações
                     </button>
@@ -52,8 +51,24 @@
         </div>
     </main>
 
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header"> 
+                <i class="fa-solid fa-xmark close" onClick="Close()"></i>
+                <div class="container">
+                    <h2 class="title">Love, Death + Robots</h2>
+                    <button class="watch">  <i class="fa-solid fa-play"></i> Assistir</button>
+                </div>
+            </div>
+            <div class="modal-body">
+               <p> Criaturas aterrorizantes, surpresas bizarras e humor ácido. Tudo isso e muito mais nesta série de animação de Tim Miller e David Fincher. Assita agora a nova temporada de Love, Death + Robots. </p>
+            </div>
+        </div>
+    </div>
+    
+    <h1 class="movie-title">Para toda a familia!</h1>
     <div class="movie-carrousel">
-        <div class="owl-carousel owl-theme">
+        <div class="owl-carousel">
             <div class="item">
                 <img src="./img/mini-poster.jpg" alt="">
             </div>

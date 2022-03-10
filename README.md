@@ -1,9 +1,4 @@
 ﻿<h1 align="center">Welcome to Netflix-Clone 👋</h1>
-<p>
-  <a href="https://twitter.com/yasmim_abrahao" target="_blank">
-    <img alt="Twitter: yasmim\_abrahao" src="https://img.shields.io/twitter/follow/yasmim\_abrahao.svg?style=social" />
-  </a>
-</p>
 
 > A netflix clone
 

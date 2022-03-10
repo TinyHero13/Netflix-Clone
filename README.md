@@ -3,10 +3,10 @@
 > A netflix clone
 
 ## Screenshots
-![Screenshot PC](./img/screen1.png)
-![Screenshot PC](./img/screen2.png)
-![Screenshot Phone](./img/screen3.png)
-![Screenshot Phone](./img/screen4.png)
+![Screenshot PC](./img/screen1.png)<br />
+![Screenshot PC](./img/screen2.png)<br />
+![Screenshot Phone](./img/screen3.png)<br />
+![Screenshot Phone](./img/screen4.png)<br />
 
 ## Author
 

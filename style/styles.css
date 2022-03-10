@@ -72,7 +72,7 @@ a.logo{
     background-color: #181818;
     margin: auto;
     padding: 0;
-    width: 80%;
+    width: 60%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
     -webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
@@ -156,12 +156,28 @@ a.logo{
   
   .modal-body {
       margin-left: 20px;
+      margin-right:50px;
       padding: 2px 16px;
       margin-top: 30px;
-      width: 40%;
       font-size: 18px;
 }
 
+.modal-body .text{
+    width: 60%;
+}
+
+.modal-body .right{
+    float: right;
+    font-size: 14px;
+    color: #b6b6b6;
+    width: 25%;
+}
+
+.right a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.right a:hover{text-decoration: underline;}
 
 /*filme principal*/
 

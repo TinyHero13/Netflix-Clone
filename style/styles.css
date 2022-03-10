@@ -233,6 +233,8 @@ a.logo{
 }
 
 .movie-carrousel{
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 5px;
     display: flex;
 }

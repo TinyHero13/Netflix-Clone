@@ -15,5 +15,3 @@
 * Website: http://yasmimabrahao.live
 * Twitter: [@yasmim\_abrahao](https://twitter.com/yasmim_abrahao)
 * Github: [@TinyHero13](https://github.com/TinyHero13)
-
-
